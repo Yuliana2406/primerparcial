@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+.contenedor 1{
+    margin: auto;
+    background-color: yellow;
+}
+
+img{
+    background-color: yellow;
+    width: 400px;
+    height: 400px;
+}
+
+.contenedor > a:hover{
+
+}
+
+
+   
